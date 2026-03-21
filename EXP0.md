@@ -28,7 +28,7 @@ Q2 . CREATE DATABASE WITH YOUR NAME.
 ## <h4>Queries:</h4>
 
 ```sql
- CREATE DATABASE Priyanshuj;
+ CREATE DATABASE 2cse24_g2_1491;
 ```
 
 ## <h4>Output:</h4>
@@ -58,7 +58,7 @@ SHOW DATABASES;
 | mysql              |
 | performance_schema |
 | phpmyadmin         |
-| priyanshuj         |
+| 2cse24_g2_1491     |
 | test               |
 +--------------------+
 9 rows in set (0.056 sec)
@@ -69,7 +69,7 @@ Q4 . USE THE DATABASE THAT YOU HAVE CREATED.
 ## <h4>Queries:</h4>
 
 ```sql
-USE Priyanshuj;
+USE 2cse24_g2_1491;
 ```
 
 ## <h4>Output:</h4>
