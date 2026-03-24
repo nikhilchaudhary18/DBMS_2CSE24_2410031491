@@ -23,7 +23,7 @@ Q1. SHOWING DATABASES.
 5 rows in set (0.006 sec)
 ```
 
-Q2 . CREATE DATABASE WITH YOUR NAME.
+Q2 . CREATE DATABASE WITH 2cse24_g2_1491.
 
 ## <h4>Queries:</h4>
 
